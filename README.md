@@ -3,5 +3,5 @@
 
 
 ## Links
-* [Download MySql Community Edition]()
+* [Download: MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 * [Download DataGrip](https://www.jetbrains.com/datagrip/download/)
