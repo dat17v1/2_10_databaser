@@ -7,7 +7,6 @@
   * VIGTIGT: Når du har installeret MySQL får du et default password som feks dette:     
    **root@localhost: yng<<OjZQ0W/**      
    Skriv det ned!!
-   * [Start MySQL på windows](https://github.com/dat17v1/2_10_databaser/blob/master/jdbc_driver/MySqL_start_Windows.md)
    * [Installation på Windows](https://www.youtube.com/watch?v=LnOnzNQnJMU)
      * I "Setup Type", Vælg "Custom" og Vælg KUN selve databasen (MySQL Server (x64 el. x86))
    * [Installation på MAC](https://www.youtube.com/watch?v=1C6ljG6FzNI)
