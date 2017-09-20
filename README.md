@@ -1,2 +1,2 @@
-# 2_10_databaser
-Agenda dag 10 d. 21-09-2017
+# Dag 10 Databaser
+## Agenda d. 21-09-2017
