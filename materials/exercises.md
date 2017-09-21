@@ -1,6 +1,6 @@
 SQL - SELECT Exercises
 
-Solve these exercises and write the solution in a text file and call it 04_select.txt. Then push it to your exercise repository on github.
+Solve these exercises and write the solution in a text file and call it my_first_sql_exercises.sql. 
 
 You should use the database "my_first_database.sql" found in the lesson folder.
 
