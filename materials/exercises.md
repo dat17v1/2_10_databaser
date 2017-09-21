@@ -22,6 +22,7 @@ _[w3schools](https://www.w3schools.com/sql/sql_select.asp)_
 5. Get all information of all customers
 
 #### WHERE
+_[w3schools](https://www.w3schools.com/sql/sql_where.asp) _
 
 6. Get name of all costumers with the last name of "Hansen"
 
