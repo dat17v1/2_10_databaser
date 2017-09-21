@@ -1,4 +1,4 @@
-SQL - SELECT Exercises
+# SQL - SELECT and INSERT Exercises
 
 Solve these exercises and write the solution in a text file and call it my_first_sql_exercises.sql. 
 
