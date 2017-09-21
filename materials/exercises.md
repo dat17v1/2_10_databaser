@@ -4,9 +4,11 @@ Solve these exercises and write the solution in a text file and call it my_first
 
 You should use the database "[my_first_database.sql](https://github.com/dat17v1/2_10_databaser/blob/master/materials/my_first_database.sql)"    
 
-Write the SQL statements for:
+The content of this file you copy and then paste it into the Console window (database - intelliJ) and hit the execute button.
 
-## SELECT
+## Write the SQL statements for:
+
+### SELECT
 
 1. Get the first name of all customers
 
@@ -18,7 +20,7 @@ Write the SQL statements for:
 
 5. Get all information of all customers
 
-### WHERE
+#### WHERE
 
 6. Get name of all costumers with the last name of "Hansen"
 
@@ -35,4 +37,4 @@ Write the SQL statements for:
 12. Get the the full name of your teacher  
 
 
-## INSERT
+### INSERT
