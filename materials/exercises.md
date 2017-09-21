@@ -46,3 +46,9 @@ _[w3schools](https://www.w3schools.com/sql/sql_insert.asp)_
 1. Insert a customer without specifying the phone number and email 
 1. Insert a customer without the last_name (what happens?)
 
+### DELETE & UPDATE
+1. If you feel like it go on with DELETING a customer _[w3schools](https://www.w3schools.com/sql/sql_delete.asp)_
+1. And UPDATING an existin customer _[w3schools](https://www.w3schools.com/sql/sql_update.asp)_
+
+(We will get to DELETE and UPDATE later)
+
