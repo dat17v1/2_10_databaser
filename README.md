@@ -12,3 +12,9 @@
    * [Installation på MAC](https://www.youtube.com/watch?v=1C6ljG6FzNI)
 <!--* [Download DataGrip](https://www.jetbrains.com/datagrip/download/)-->
 * [MySQL Connector/J v. 5.1.37](https://github.com/dat17v1/2_10_databaser/raw/master/jdbc_driver/mysql-connector-java-5.1.37-bin.jar)
+
+## Læsestof
+* [Materialet til dette semester](https://www.w3schools.com/sql/default.asp)
+* [SELECT](https://www.w3schools.com/sql/sql_select.asp)
+* [WHERE](https://www.w3schools.com/sql/sql_where.asp)
+* [INSERT INTO](https://www.w3schools.com/sql/sql_insert.asp)
