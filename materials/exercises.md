@@ -40,4 +40,6 @@ The content of this file you copy and then paste it into the Console window (dat
 ### INSERT
 
 1. Insert yourself into the customers table
-1.  
+1. Insert a customer without specifying the phone number and email 
+1. Insert a customer without the last_name (what happens?)
+
