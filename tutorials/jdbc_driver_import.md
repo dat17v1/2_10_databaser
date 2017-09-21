@@ -1,4 +1,4 @@
-# JDBC Driver
+# JDBC Driver i jeres Student Administration system
 
 tilføj dette i jeres pom.xml fil
 
