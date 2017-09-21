@@ -9,6 +9,7 @@ The content of this file you copy and then paste it into the Console window (dat
 ## Write the SQL statements for:
 
 ### SELECT
+_https://www.w3schools.com/sql/sql_select.asp_
 
 1. Get the first name of all customers
 
@@ -38,7 +39,7 @@ The content of this file you copy and then paste it into the Console window (dat
 
 
 ### INSERT
-(https://www.w3schools.com/sql/sql_insert.asp)
+_https://www.w3schools.com/sql/sql_insert.asp_
 
 1. Insert yourself into the customers table
 1. Insert a customer without specifying the phone number and email 
