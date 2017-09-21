@@ -4,7 +4,7 @@ Solve these exercises and write the solution in a text file and call it my_first
 
 You should use the database "[my_first_database.sql](https://github.com/dat17v1/2_10_databaser/blob/master/materials/my_first_database.sql)"    
 
-The content of this file you copy and then paste it into the Console window (database - intelliJ) and hit the execute button.
+The content of this file you copy and then paste it into the Console window (database - intelliJ) and hit the execute button. Then you will have a database called my_first_database.
 
 ## Write the SQL statements for:
 
