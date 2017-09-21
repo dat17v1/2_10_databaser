@@ -15,6 +15,9 @@
 
 ## Læsestof
 * [Materialet til dette semester](https://www.w3schools.com/sql/default.asp)
+### CRUD
 * [SELECT](https://www.w3schools.com/sql/sql_select.asp)
 * [WHERE](https://www.w3schools.com/sql/sql_where.asp)
 * [INSERT INTO](https://www.w3schools.com/sql/sql_insert.asp)
+* [UPDATE](https://www.w3schools.com/sql/sql_update.asp)
+* [DELETE](https://www.w3schools.com/sql/sql_delete.asp)
