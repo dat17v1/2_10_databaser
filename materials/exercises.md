@@ -2,9 +2,11 @@ SQL - SELECT Exercises
 
 Solve these exercises and write the solution in a text file and call it my_first_sql_exercises.sql. 
 
-You should use the database "my_first_database.sql" found in the lesson folder.
+You should use the database "[my_first_database.sql](https://github.com/dat17v1/2_10_databaser/blob/master/materials/my_first_database.sql)"    
 
 Write the SQL statements for:
+
+## SELECT
 
 1. Get the first name of all customers
 
@@ -15,6 +17,8 @@ Write the SQL statements for:
 4. Get the email and phone number of all customers
 
 5. Get all information of all customers
+
+### WHERE
 
 6. Get name of all costumers with the last name of "Hansen"
 
@@ -29,3 +33,6 @@ Write the SQL statements for:
 11. Get all info of customers with a name that has something to do with alcohol
 
 12. Get the the full name of your teacher  
+
+
+## INSERT
